@@ -62,15 +62,3 @@ One major future enhancement is the implementation of land tokenization:
 ## Deployment
 
 The smart contract is deployed on Arbitrum Sepolia at the following address: 0x8505590Ade148fdf59c34857c83471AbF5AA4e7e  
-
-## Contributors
-
-- Revanth Kurapati
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Demo Video
-
-Check out the demo video of our Land Registry platform on [YouTube]([ (https://youtu.be/ufbVfnFaURY?feature=shared) ]).
